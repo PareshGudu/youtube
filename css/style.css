@@ -1,0 +1,9 @@
+img{
+    max-width: 350px;
+    margin-right:20px ;
+    border:2px solid blue ;
+}
+.about{
+    color:white ;
+    font-size:4 ;
+}
